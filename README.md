@@ -13,6 +13,7 @@ Songs list
 10.Goreshit - beautiful loli thing --- Average <br>
 11.Saikoro / 29 - far in the blue sky... --- A chart that I feel bored <br>
 12.Taikes,Amberry - ~ Betelgeuse ~ --- Average <br>
+13.DJ Sharpnel - Tactical railroad --- Average <br>
 
 Will change over a long time.
 
