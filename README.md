@@ -15,7 +15,7 @@ Songs list
 12.Taikes,Amberry - ~ Betelgeuse ~ --- Average <br>
 13.DJ Sharpnel - Tactical railroad --- Average <br>
 
-Will change over a long time.
+List is not static, will change at any time for a long time.
 
 
 
