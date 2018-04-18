@@ -70,5 +70,4 @@ def get_md5(file_path):
 if __name__ == '__main__':
     url_list = run()
     resolve(url_list)
-    request.urlretrieve("https://github.com/Mintapril/My-Charts/raw/master/README.md", os.path.join("My-Charts", "README.md"))
 
